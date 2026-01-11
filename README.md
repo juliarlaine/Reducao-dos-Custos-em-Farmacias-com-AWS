@@ -15,13 +15,16 @@ Demonstrar, de forma prática e conceitual, como a utilização de serviços da 
 - Utilizado para processamento de tarefas internas e sistemas de apoio
 - Permite o uso de capacidade ociosa da AWS com **custo reduzido**
 - Gera economia imediata em comparação a servidores tradicionais
+- [Documentação](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/using-spot-instances.html)
 
 ### 2️⃣ Amazon S3 (Simple Storage Service)
 - Armazenamento de documentos, registros e backups
 - Substitui servidores locais
 - Reduz custos com manutenção, energia e espaço físico
+- [Documentação](https://docs.aws.amazon.com/pt_br/s3/?icmpid=docs_homepage_featuredsvcs)
 
 ### 3️⃣ AWS Cost Explorer
 - Monitoramento e análise dos custos em nuvem
 - Identificação de gastos desnecessários
 - Auxilia na tomada de decisão para manter os custos baixos
+- [Documentação](https://docs.aws.amazon.com/pt_br/cost-management/latest/userguide/ce-what-is.html)
