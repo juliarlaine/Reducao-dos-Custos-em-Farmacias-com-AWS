@@ -1,0 +1,4 @@
+- [x] Definição dos serviços AWS
+- [x] Foco em redução imediata de custos
+- [x] Substituição de infraestrutura local
+- [x] Monitoramento de gastos com Cost Explorer
